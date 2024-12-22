@@ -2,6 +2,7 @@ Projek Mata Kuliah Manajemen Informasi
 
 kelompok 6
 Judul: Sistem Manajemen Rumah Sakit
+
 anggota kelompok:
   - Naila Huwaida Nisa
   - Nayla Safhira
